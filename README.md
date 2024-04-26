@@ -2,5 +2,5 @@
 
 V okviru tega projeta se bomo ukvarjali s preprosto analizo besed.
 
-##Avtorji
+## Avtorji
 * Jakob S. Klasinc
